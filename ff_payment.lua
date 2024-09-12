@@ -1,4 +1,4 @@
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 CHANGES = {
-    "Added version checker into resource for customers to maintain most up-to data code."
+    "Added option in shared config to change base resource name for Mythic Framework."
 }
