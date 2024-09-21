@@ -1,4 +1,4 @@
-VERSION = "1.0.4"
+VERSION = "1.0.5"
 CHANGES = {
-    "Added version checker into resource for customers to maintain most up-to data code."
+    "Fixed exploit that skipped deliveries done and gave played x2 the delivery commission."
 }
