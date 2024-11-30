@@ -1,4 +1,4 @@
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 CHANGES = {
-    "Fixed comment on vehicle keys in config for mythic keys as using incorrect value."
+    "Fixed adding crew menu bug in Mythic framework causing context menu to be unable to render."
 }
