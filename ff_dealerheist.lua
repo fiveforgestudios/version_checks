@@ -1,6 +1,5 @@
-VERSION = "1.0.4"
+VERSION = "1.0.5"
 CHANGES = {
-    "Fixed terminal minigame breaking on third call (attempt)",
-    "Optimization & performance updates to the needle minigame.",
-    "Spelling mistake in failed hotwire log."
+    "Added a `VehicleSpawned` call in server bridge `bridge/server/functions.lua` when the dealership heist vehicle is spawned.",
+    "Some syntax cleanup on vehicle dispatch alerts"
 }
