@@ -1,4 +1,4 @@
-VERSION = "1.0.5"
+VERSION = "1.0.6"
 CHANGES = {
-    "Added version checker into resource for customers to maintain most up-to data code."
+    "Fixed `Customization` table being undefined."
 }
